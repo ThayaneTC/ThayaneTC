@@ -14,7 +14,7 @@
   <img align="center" alt="Thayane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thayane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thayane-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Rafa-yoda" src"https://cdn.discordaapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Thayane" src="https://cdn.discordaapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
 ##
